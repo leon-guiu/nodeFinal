@@ -1,11 +1,13 @@
-// Projecto Final
-// Diplomado en Artes Digitales y Tecnologias Interactvas, Node Center, Berlin
+// Final project.
+// Dip. Digital Arts and Interactive Technologies
+// Node center for Curatorial Studies, Berlin.
 
 // it-would-be-so-nice
-// url: it-would-be-so-nice.neocities.org/node/index.html
+// Medium: Web
 // Software: Processing, p5.js
+// url: it-would-be-so-nice.neocities.org/node/index.html
 
-// Author: Fernando Leon-Guiu
+// Author: Fernando Leoón-Guiu
 // Year: 2015
 
 var img1;
