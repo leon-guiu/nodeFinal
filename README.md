@@ -1,11 +1,11 @@
 # nodeFinal
 # it-would-be-so-nice
 
-Final project.
+Final project
 
-Dip. Digital Arts and Interactive Technologies.
+Dip. Digital Arts and Interactive Technologies
 
-Node Center for Curatorial Studies, Berlin.
+Node Center for Curatorial Studies, Berlin
 
 Medium: Web
 
