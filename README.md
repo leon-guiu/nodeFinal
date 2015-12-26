@@ -5,4 +5,4 @@ Final project.
 
 Dip. Digital Arts and Interactive Technologies.
 
-Node Center for Interactive Studies, Berlin.
+Node Center for Curatorial Studies, Berlin.
