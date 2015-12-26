@@ -5,7 +5,7 @@
 // it-would-be-so-nice
 // Medium: Web
 // Software: Processing, p5.js
-// url: it-would-be-so-nice.neocities.org/node/index.html
+// url: http://it-would-be-so-nice.neocities.org/node/index.html
 
 // Author: Fernando León-Guiu
 // Year: 2015
