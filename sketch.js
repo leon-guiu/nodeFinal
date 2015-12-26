@@ -15,6 +15,7 @@ var img2;
 var img3;
 var img4;
 var img5;
+var img6;
 
 var img11;
 var img12;
@@ -36,7 +37,7 @@ var option = 1;
 
 function preload() {
 
-  font = loadFont("https://dl.dropboxusercontent.com/u/15335326/WebFonts/source-code-pro/SourceCodePro-Regular.otf");
+  font = loadFont("SourceCodePro-Regular.ttf");
 
   img1 = loadImage("1-disneyland_castle.jpg");
   img2 = loadImage("20140118_bkp505.jpg");
@@ -80,7 +81,6 @@ function draw() {
     textSize(23);
     text("It would be so nice if something would make sense for a change", 70, 325);
     noStroke()
-
   }
 
   if (option == 2) {
