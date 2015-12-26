@@ -7,7 +7,7 @@
 // Software: Processing, p5.js
 // url: it-would-be-so-nice.neocities.org/node/index.html
 
-// Author: Fernando Leon-Guiu
+// Author: Fernando León-Guiu
 // Year: 2015
 
 var img1;
