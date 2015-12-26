@@ -18,7 +18,6 @@ var img5;
 
 var img11;
 var img12;
-var img13;
 var img14;
 var img15;
 var img16;
