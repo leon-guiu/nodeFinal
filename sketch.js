@@ -67,6 +67,7 @@ function preload() {
 function setup() {
 
   createCanvas(1000, 900);
+  cursor(CROSS);
   textFont(font);
   noStroke();
   fill(220);
